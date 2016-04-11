@@ -75,3 +75,5 @@ Sometimes the following commands can cure it
 Another time I had to remove & recreate the docker machine (see Increase resources of default Docker machine) before the above restart.
 
 Might be triggered by machine going to sleep, or network problem due to VPN usage.
+
+VPN related bug: https://github.com/docker/machine/issues/2632
